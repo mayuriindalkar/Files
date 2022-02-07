@@ -1,0 +1,7 @@
+file=open("file-question3.txt","w")
+file.write("kotak-/n")
+file.write("HDFC-/n")
+file.write("RBL-/n")
+file.write("SBI-/n")
+file.write("Bank of Baroda-/n")
+file.close()
